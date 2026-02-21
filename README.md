@@ -10,4 +10,7 @@ Editing
 
   Ctrl + k Cut current line into cutbuffer
   Ctrl + u Paste contents of cutbuffer
+
+  Ctrl + w
+  Alt + q
 ```
